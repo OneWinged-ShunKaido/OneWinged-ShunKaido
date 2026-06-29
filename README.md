@@ -32,5 +32,5 @@ Details under wraps for now. 👀
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OneWinged-ShunKaido&theme=tokyonighthub&no-frame=true&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OneWinged-ShunKaido&theme=tokyonight&no-frame=true&column=7&margin-w=4"/>
 </p>
