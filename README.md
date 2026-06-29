@@ -24,12 +24,6 @@ Building a fully instrumented JavaScript engine from scratch in Rust — a contr
 room where obfuscated code can be taken apart without ever knowing it's being watched.
 Details under wraps for now. 👀
 
-### 🗂️ Selected work
-
-- **[akamai-xp1m-teardown](https://github.com/OneWinged-ShunKaido/akamai-xp1m-teardown)** — Threat-intel teardown of a browser anti-bot sensor: VM-in-VM JS obfuscation, self-integrity, byte-exact payload reconstruction.
-- **[TransPyler](https://github.com/OneWinged-ShunKaido/TransPyler)** — Pure-Python transpiler for modern JavaScript → readable, executable Python.
-- **[Google-Play-SSL-Pinning-Bypass](https://github.com/OneWinged-ShunKaido/Google-Play-SSL-Pinning-Bypass)** — Frida instrumentation for Cronet SSL pinning analysis.
-
 ---
 
 <p align="center">
