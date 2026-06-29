@@ -27,10 +27,10 @@ Details under wraps for now. 👀
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OneWinged-ShunKaido&show_icons=true&hide_title=true&hide_rank=false&theme=dark&hide_border=true&icon_color=8b0000&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneWinged-ShunKaido&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OneWinged-ShunKaido&show_icons=true&hide_title=true&hide_rank=false&theme=tokyonight&hide_border=true&icon_color=8b0000&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneWinged-ShunKaido&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OneWinged-ShunKaido&theme=darkhub&no-frame=true&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OneWinged-ShunKaido&theme=tokyonighthub&no-frame=true&column=7&margin-w=4"/>
 </p>
