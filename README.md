@@ -27,10 +27,7 @@ Details under wraps for now. 👀
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OneWinged-ShunKaido&show_icons=true&hide_title=true&hide_rank=false&theme=tokyonight&hide_border=true&icon_color=8b0000&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneWinged-ShunKaido&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OneWinged-ShunKaido&theme=tokyonight&no-frame=true&column=7&margin-w=4"/>
+  <img src="https://komarev.com/ghpvc/?username=OneWinged-ShunKaido&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/OneWinged-ShunKaido?style=for-the-badge&color=7aa2f7&labelColor=1a1b26&logo=github&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/OneWinged-ShunKaido/akamai-xp1m-teardown?style=for-the-badge&color=7aa2f7&labelColor=1a1b26&logo=github&label=TEARDOWN%20STARS"/>
 </p>
