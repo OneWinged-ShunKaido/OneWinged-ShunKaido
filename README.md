@@ -18,12 +18,6 @@
 
 ---
 
-### 🔬 Currently
-
-Building a fully instrumented JavaScript engine from scratch in Rust — a controlled
-room where obfuscated code can be taken apart without ever knowing it's being watched.
-Details under wraps for now. 👀
-
 ---
 
 <p align="center">
